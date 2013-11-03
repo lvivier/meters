@@ -1,0 +1,7 @@
+{
+  "name": "meters",
+  "repo": "lvivier/meters",
+  "description": "Convert string distances to meters",
+  "version": "0.0.1",
+  "scripts": ["index.js"]
+}
