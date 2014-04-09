@@ -1,7 +1,10 @@
 {
   "name": "meters",
   "version": "0.0.1",
-  "repository": {"git": "https://github.com/lvivier/meters.git"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvivier/meters.git"
+  },
   "description": "Convert string distances to meters",
   "author": "Luke Vivier <luke@vivier.ca>",
   "main": "index.js",
