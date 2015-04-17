@@ -44,6 +44,7 @@ function meters (str) {
   case 'mm':
     return m / 1000
   case 'm':
+  case '':
     return m
   default:
     return null
